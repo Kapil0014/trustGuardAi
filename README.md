@@ -1,5 +1,4 @@
-# trustGuardAi
-# 🛡️ TrustGuard AI
+#  TrustGuard AI
 
 ## FastAPI Backend for UI Dark Pattern Detection
 
